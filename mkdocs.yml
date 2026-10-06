@@ -38,6 +38,13 @@ nav:
           - "ZET Info": 2024/zet-info-v3.md
           - ZgInfo.AI: 2024/zginfo-ai.md
           - ZgViz: 2024/zgviz.md
+      - "2025.":
+        - "BajsRoute": 2025/bajs-route.md
+        - "Puls grad": 2025/puls-grada.md
+        - "Urban Score Zagreb": 2025/urban-score-zagreb.md
+        - "Zagreb City": 2025/zagreb-city.md
+        - "Zg Air": 2025/zg-air.md
+        - "ZgConnect": 2025/zagreb-unity.md
 
 extra_css:
   - stylesheets/custom.css
