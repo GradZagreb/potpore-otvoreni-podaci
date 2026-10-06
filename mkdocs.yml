@@ -5,7 +5,7 @@ theme:
   name: material
   palette:
     primary: custom
-  logo: assets/images/logo_zagreb_negative.svg
+  logo: assets/images/logo_zagreb_negative.png
   favicon: assets/images/logo_zagreb.svg
   features:
     - navigation.path
